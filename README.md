@@ -3,7 +3,7 @@ Void Hacks() is a 36 hour hackathon fostering innovation and creativity through 
 
 This is a dynamic website for VoidHacks.
 
-### Requirements
+###  Requirements
 
 **Prerequisites:**
 * mongodb
